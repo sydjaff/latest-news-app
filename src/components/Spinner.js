@@ -2,8 +2,8 @@ import React from 'react'
 import loading from './loading.gif'
 export default function Spinner() {
     return (
-        <div className='text-center'>
-            <img src={loading} alt="" srcset="" style={{ width: "100px" }} />
+        <div className='text-center my-5' >
+            <img src={loading} style={{ width: "100px" }} />
         </div>
     )
 }

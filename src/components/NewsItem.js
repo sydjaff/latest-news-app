@@ -3,7 +3,7 @@ import React from "react";
 export default function NewsItem(props) {
   return (
     <div>
-      <div className="card" style={{ width: "18rem" }}>
+      <div className="card">
         <img
           src={
             !props.urlToImage
