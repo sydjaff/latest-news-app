@@ -30,14 +30,6 @@ export default function News() {
     fetchNews(pageNo);
   }, [pageNo]);
 
-  // useEffect(() => {
-  //   console.log(
-  //     `total: ${totalResults}, size: ${pageSize}, number: ${pageNo}, next: ${
-  //       totalResults / pageSize < pageNo
-  //     }, previous: ${pageNo == 1}`
-  //   );
-  // }, [totalResults, pageNo, pageSize]);
-
   return (
     <div>
       <div className="container my-3">
