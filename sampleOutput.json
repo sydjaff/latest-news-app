@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Charles Pulliam-Moore",
+      "title": "Raphael Saadiq wants Moon Girl and Devil Dinosaur’s music to move you",
+      "description": "Ahead of Moon Girl and Devil Dinosaur’s February 10th Disney Channel debut, executive music producer Raphael Saadiq sat down with The Verge to discuss the show’s musical influences.",
+      "url": "http://www.theverge.com/2023/2/7/23588403/raphael-saadiq-moon-girl-devil-dinosaur-interview",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/VrQ6kSZ1R4EWZW2hdDH80xQ3ZfU=/0x0:3000x1688/1200x628/filters:focal(1288x841:1289x842)/cdn.vox-cdn.com/uploads/chorus_asset/file/24415702/162757_102_0027.jpeg",
+      "publishedAt": "2023-02-07T22:19:32Z",
+      "content": "When I watched cartoons as a kid, there was a lot of serious orchestration. A lot of funk, a lot of R&amp;B, and a lot of soul all kinds of different styles of music. I wanted that for Moon Girl, too… [+4718 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "RONALD BLUM Associated Press",
+      "title": "Dudamel to become NY Philharmonic music director, leave LA",
+      "description": "Gustavo Dudamel will become music director of the New York Philharmonic for the 2026-27 season, ending a tenure with the Los Angeles Philharmonic that began in 2009",
+      "url": "https://abcnews.go.com/Entertainment/wireStory/dudamel-become-ny-philharmonic-music-director-leave-la-96958522",
+      "urlToImage": "https://s.abcnews.com/images/US/wirestory_eb50e23b1af2c5c182fc975917820432_16x9_992.jpg",
+      "publishedAt": "2023-02-07T20:31:44Z",
+      "content": "NEW YORK -- NEW YORK (AP) Gustavo Dudamel will become music director of the New York Philharmonic for the 2026-27 season, ending a heralded tenure with the Los Angeles Philharmonic that began in 2009… [+4379 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "NARDOS HAILE",
+      "title": "The Grammys ended in controversy, again. Here’s what to know",
+      "description": "NEW YORK (AP) — A night in music brimming with shocking upsets, historic wins, tributes for artists like the late rapper Takeoff and hip-hop’s 50th anniversary, the 65th Grammys were back in full swing Sunday.",
+      "url": "https://apnews.com/68bfa38b02e797e3300b7c32f00d8b2c",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b3f930b223bf4ab194e9ac121324d4c5/3000.jpeg",
+      "publishedAt": "2023-02-06T22:01:41Z",
+      "content": "NEW YORK (AP) — A night in music brimming with shocking upsets, historic wins, tributes for artists like the late rapper Takeoff and hip-hop’s 50th anniversary, the 65th Grammys were back in full swi… [+4468 chars]"
+    },
+    {
+      "source": {
+        "id": "mtv-news",
+        "name": "MTV News"
+      },
+      "author": "MTV News Staff",
+      "title": "Bop Shop: Songs From Doechii, Sunmi, The Beths, And More",
+      "description": "Including one especially delightful music video that doubles as a rom-com",
+      "url": "http://www.mtv.com/news/3188577/bop-shop-doechii-sunmi-the-beths/",
+      "urlToImage": "https://mtv.mtvnimages.com/uri/mgid:ao:image:mtv.com:702466?quality=0.8&format=jpg&width=1440&height=810&.jpg",
+      "publishedAt": "2022-07-15T17:00:56Z",
+      "content": "The search for the ever-elusive \"bop\" is difficult. Playlists and streaming-service recommendations can only do so much. They often leave a lingering question: Are these songs really good, or are the… [+5477 chars]"
+    },
+    {
+      "source": {
+        "id": "mtv-news",
+        "name": "MTV News"
+      },
+      "author": "Athena Serrano",
+      "title": "BTS Will Tell 'A Story Of Our Music' In Disney+ Docuseries and Concert Special",
+      "description": "The series will show fans a more 'personal side' of the band's members",
+      "url": "http://www.mtv.com/news/3188524/bts-disney-plus-specials-announcement/",
+      "urlToImage": "https://mtv.mtvnimages.com/uri/mgid:ao:image:mtv.com:702443?quality=0.8&format=jpg&width=1440&height=810&.jpg",
+      "publishedAt": "2022-07-13T14:38:03Z",
+      "content": "The boys of BTS are giving you Permission to Dance on stage with them on their upcoming new Disney+ specials.\r\nThe sensational pop group will star in exclusive shows on the streaming platform followi… [+2555 chars]"
+    }
+  ]
+}
